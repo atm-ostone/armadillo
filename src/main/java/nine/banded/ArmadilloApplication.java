@@ -1,3 +1,5 @@
+// It’s only a thought, and a thought can be changed.
+
 // Our bodies and minds are capable of far more than our psyche will let us achieve.
 
 /*
